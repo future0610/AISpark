@@ -7,7 +7,7 @@ Develop a deep learning model that accurately segments wildfire areas from satel
 
 ## Approach  
 - Due to the nature of satellite images (small objects, mostly background), we experimented with Transformer-based models (e.g., TransUNet), which are considered more suitable than CNN-based models.
-- Various segmentation models including TransUNet were applied, and experiments were conducted with data augmentation and different loss functions.
+- TransUNet was applied, and experiments were conducted with data augmentation and different loss functions.
 
 ## Project Structure
 
